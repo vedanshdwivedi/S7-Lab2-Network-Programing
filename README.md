@@ -2,8 +2,8 @@
 
 # Cycle 1
 <ul>
-<li>[+] One way TCP </li>
-<li>[+] Two way TCP </li>
-<li>[+] One way UDP </li>
-<li>[+] Two way UDP </li>
+<li>One way TCP </li>
+<li>Two way TCP </li>
+<li>One way UDP </li>
+<li>Two way UDP </li>
  </ul>
